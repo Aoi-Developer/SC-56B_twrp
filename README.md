@@ -7,3 +7,5 @@ export ALLOW_MISSING_DEPENDENCIES=true
 lunch twrp_a22x-eng
 make recoveryimage
 ```
+Odin3とかでFlashして使ってください。  
+fastbootdが使えるようになるのでsystem.imgを使ったROM焼きができるようになります
