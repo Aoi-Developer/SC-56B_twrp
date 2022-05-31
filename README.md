@@ -1,5 +1,5 @@
 ## SC-56B向けTWRPデバイスツリー
-こちらのデバイスツリーを日本向けに書き換えたモジュールです。
+こちらのデバイスツリーを日本向けに書き換えました
 (https://github.com/aHVzY2g/twrp-device-samsung-a22x)
 ```sh
 export ALLOW_MISSING_DEPENDENCIES=true
