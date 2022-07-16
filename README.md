@@ -1,4 +1,4 @@
-## SC-56B向けTWRPデバイスツリー
+## SC56BOMU1AVC2向けTWRPデバイスツリー
 こちらのデバイスツリーを日本向けに書き換えました
 (https://github.com/aHVzY2g/twrp-device-samsung-a22x)
 ```sh
